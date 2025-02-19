@@ -19,7 +19,7 @@
 
 1. Убедитесь, что у Вас установлен Python 3.x.
 2. Установите необходимые библиотеки:
-   pip install selenium pytest requests
+ selenium, pytest, requests
 Убедитесь, что у Вас установлен веб-драйвер для Вашего браузера (например, ChromeDriver для Google Chrome).
 
 ## Запуск тестов
